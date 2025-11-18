@@ -1,2 +1,23 @@
-# Fraud-Detection
-This project aims to detect fraudulent healthcare insurance claims using machine learning techniques. Fraudulent activities in healthcare systems lead to massive financial losses each year — this project demonstrates how data science can be applied to identify suspicious claims efficiently.
+# Healthcare Fraud Detection 
+
+A machine learning project to detect fraudulent healthcare insurance claims using the **simulated_nhis_healthcare_claims** dataset. The goal is to build an end-to-end pipeline that cleans data, trains models, and identifies suspicious claims.
+
+---
+
+## Features
+- Data cleaning & preprocessing  
+- Feature engineering  
+- ML model training (Random Forest, Logistic Regression, etc.)  
+- Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)  
+- Jupyter notebook for EDA & testing  
+
+---
+
+## Project Structure
+fraud-detection/
+│
+├── data/ # Dataset
+├── models/ # Saved ML models
+
+
+
